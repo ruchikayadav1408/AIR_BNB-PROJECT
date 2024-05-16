@@ -9,10 +9,10 @@ Link : https://air-bnb-project-2.onrender.com/listing
 
 ![Screenshot (507)](https://github.com/ruchikayadav1408/AIR_BNB-PROJECT/assets/86114973/f297d426-7dcb-4db0-8fa5-f2b041f5eae4)
 
-## SIGNUP📋
+## LOGIN📋
 ![Screenshot (509)](https://github.com/ruchikayadav1408/AIR_BNB-PROJECT/assets/86114973/fece3536-d50e-4d6b-8c6d-6a41f297d048)
 
-## LOGIN 📋
+## SIGNUP 📋
 ![Screenshot (508)](https://github.com/ruchikayadav1408/AIR_BNB-PROJECT/assets/86114973/d34f7c21-4f2f-4c74-8a6a-b9a93ed6548e)
 
 ## DETAILS OF LIST 📋
