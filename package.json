@@ -28,6 +28,8 @@
 
   "dependencies": {
 
+    "@emotion/styled": "^11.11.5",
+
     "@faker-js/faker": "^8.4.1",
 
     "@mapbox/mapbox-sdk": "^0.16.0",
